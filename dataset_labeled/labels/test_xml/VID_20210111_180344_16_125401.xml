@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	  <folder>new</folder>
+	  <filename>VID_20210111_180344_16_125401.jpg</filename>
+	  <path>G:\chouqu\new\VID_20210111_180344_16_125401.jpg</path>
+	  <source>
+		    <database>Unknown</database>
+	  </source>
+	  <size>
+		    <width>2160</width>
+		    <height>2416</height>
+		    <depth>3</depth>
+	  </size>
+	  <segmented>0</segmented>
+	  <object>
+		    <name>Do</name>
+		    <pose>Unspecified</pose>
+		    <truncated>0</truncated>
+		    <difficult>0</difficult>
+		    <bndbox>
+			      <xmin>43</xmin>
+			      <ymin>1376</ymin>
+			      <xmax>477</xmax>
+			      <ymax>1578</ymax>
+		    </bndbox>
+	  </object>
+</annotation>

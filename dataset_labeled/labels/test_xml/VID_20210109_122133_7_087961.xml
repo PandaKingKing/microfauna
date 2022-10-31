@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	  <folder>chouqu</folder>
+	  <filename>VID_20210109_122133_7_087961.jpg</filename>
+	  <path>C:\Users\Zheng Pang\Desktop\chouqu\VID_20210109_122133_7_087961.jpg</path>
+	  <source>
+		    <database>Unknown</database>
+	  </source>
+	  <size>
+		    <width>2160</width>
+		    <height>2434</height>
+		    <depth>3</depth>
+	  </size>
+	  <segmented>0</segmented>
+	  <object>
+		    <name>Arcella</name>
+		    <pose>Unspecified</pose>
+		    <truncated>0</truncated>
+		    <difficult>0</difficult>
+		    <bndbox>
+			      <xmin>977</xmin>
+			      <ymin>683</ymin>
+			      <xmax>1092</xmax>
+			      <ymax>805</ymax>
+		    </bndbox>
+	  </object>
+	  <object>
+		    <name>Arcella</name>
+		    <pose>Unspecified</pose>
+		    <truncated>0</truncated>
+		    <difficult>0</difficult>
+		    <bndbox>
+			      <xmin>1077</xmin>
+			      <ymin>936</ymin>
+			      <xmax>1237</xmax>
+			      <ymax>1111</ymax>
+		    </bndbox>
+	  </object>
+	  <object>
+		    <name>Mo</name>
+		    <pose>Unspecified</pose>
+		    <truncated>0</truncated>
+		    <difficult>0</difficult>
+		    <bndbox>
+			      <xmin>918</xmin>
+			      <ymin>1315</ymin>
+			      <xmax>1060</xmax>
+			      <ymax>1479</ymax>
+		    </bndbox>
+	  </object>
+</annotation>

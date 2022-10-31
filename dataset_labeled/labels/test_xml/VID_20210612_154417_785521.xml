@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	  <folder>chouqu-6</folder>
+	  <filename>VID_20210612_154417_785521.jpg</filename>
+	  <path>C:\Users\Zheng Pang\Desktop\chouqu\chouqu-6\VID_20210612_154417_785521.jpg</path>
+	  <source>
+		    <database>Unknown</database>
+	  </source>
+	  <size>
+		    <width>1080</width>
+		    <height>1165</height>
+		    <depth>3</depth>
+	  </size>
+	  <segmented>0</segmented>
+	  <object>
+		    <name>Do</name>
+		    <pose>Unspecified</pose>
+		    <truncated>0</truncated>
+		    <difficult>0</difficult>
+		    <bndbox>
+			      <xmin>426</xmin>
+			      <ymin>77</ymin>
+			      <xmax>484</xmax>
+			      <ymax>293</ymax>
+		    </bndbox>
+	  </object>
+</annotation>

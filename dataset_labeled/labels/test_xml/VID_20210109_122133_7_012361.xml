@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	  <folder>new</folder>
+	  <filename>VID_20210109_122133_7_012361.jpg</filename>
+	  <path>G:\chouqu\new\VID_20210109_122133_7_012361.jpg</path>
+	  <source>
+		    <database>Unknown</database>
+	  </source>
+	  <size>
+		    <width>2160</width>
+		    <height>2434</height>
+		    <depth>3</depth>
+	  </size>
+	  <segmented>0</segmented>
+	  <object>
+		    <name>Mo</name>
+		    <pose>Unspecified</pose>
+		    <truncated>0</truncated>
+		    <difficult>0</difficult>
+		    <bndbox>
+			      <xmin>776</xmin>
+			      <ymin>899</ymin>
+			      <xmax>950</xmax>
+			      <ymax>1074</ymax>
+		    </bndbox>
+	  </object>
+	  <object>
+		    <name>Mo</name>
+		    <pose>Unspecified</pose>
+		    <truncated>0</truncated>
+		    <difficult>0</difficult>
+		    <bndbox>
+			      <xmin>995</xmin>
+			      <ymin>2083</ymin>
+			      <xmax>1302</xmax>
+			      <ymax>2241</ymax>
+		    </bndbox>
+	  </object>
+</annotation>
